@@ -1,17 +1,17 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "vmake"
-version = "2.0.0-17"
+version = "2.0.0-18"
 
 -- LuaDist source
 source = {
-  tag = "2.0.0-17",
+  tag = "2.0.0-18",
   url = "git://github.com/LuaDist-testing/vmake.git"
 }
 -- Original source
 -- source = {
 --     url = "git://github.com/vercas/vMake",
---     tag = "v2.0.0",
+--     tag = "v2.0.0-5.1",
 -- }
 
 description = {
@@ -21,7 +21,7 @@ description = {
 }
 
 dependencies = {
-    "lua >= 5.2",
+    "lua >= 5.1",
 }
 
 build = {
