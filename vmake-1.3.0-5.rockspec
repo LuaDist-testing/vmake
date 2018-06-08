@@ -1,10 +1,18 @@
-package = "vmake"
-version = "1.2.1"
+-- This file was automatically generated for the LuaDist project.
 
+package = "vmake"
+version = "1.3.0-5"
+
+-- LuaDist source
 source = {
-    url = "git://github.com/vercas/vMake",
-    tag = "v1.2.1",
+  tag = "1.3.0-5",
+  url = "git://github.com/LuaDist-testing/vmake.git"
 }
+-- Original source
+-- source = {
+--     url = "git://github.com/vercas/vMake",
+--     tag = "v1.3.0",
+-- }
 
 description = {
     summary = "Tool for building software and configuring builds.",
